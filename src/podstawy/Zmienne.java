@@ -28,5 +28,11 @@ public class Zmienne {
 
         char znak = '#';
 
+        //  https://github.com/przemjan/czwartajgr22023
+
+        // \\ubuckp
+
+        // 1, 2, 5, 6, 7, 8, 13, 16, 20, 21
+
     }
 }
