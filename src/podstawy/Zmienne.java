@@ -34,5 +34,7 @@ public class Zmienne {
 
         // 1, 2, 5, 6, 7, 8, 13, 16, 20, 21
 
+        //petlewstep - 1-7, 12, 13, 14
+        //zadania4 - wszystko
     }
 }
