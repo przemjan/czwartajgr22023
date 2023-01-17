@@ -30,7 +30,7 @@ public class Zmienne {
 
         //  https://github.com/przemjan/czwartajgr22023
 
-        // \\ubuckp
+        // \\ubuckp\public\janisz
 
         // 1, 2, 5, 6, 7, 8, 13, 16, 20, 21
 
